@@ -1,0 +1,25 @@
+[1mdiff --git a/index.html b/index.html[m
+[1mindex 1955fae..cc1cf0e 100644[m
+[1m--- a/index.html[m
+[1m+++ b/index.html[m
+[36m@@ -7,16 +7,16 @@[m
+ <body>[m
+ 	<table border="1">[m
+ 		<tr >[m
+[31m-			<td>หน้าแรก</td>[m
+[32m+[m			[32m<td>1</td>[m
+ 		</tr>[m
+ 		<tr>[m
+[31m-			<td>หน้าสอง</td>[m
+[32m+[m			[32m<td>2</td>[m
+ 		</tr>[m
+ 		<tr>[m
+[31m-			<td>หน้าสาม</td>[m
+[32m+[m			[32m<td>3</td>[m
+ 		</tr>[m
+ 		<tr>[m
+[31m-			<td>1</td>[m
+[32m+[m			[32m<td>4</td>[m
+ 		</tr>[m
+ 		<tr>[m
+ 			<td></td>[m
